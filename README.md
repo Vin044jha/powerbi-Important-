@@ -1,7 +1,4 @@
 # Power BI
-This Repository has **Power BI** Training Materials developed by **Myla Ram Reddy**.
-
-Please contact **Renuka** for **Training and Certification** @ [8374899166](https://wa.me/918374899166)(whatsapp)
 
 ----
 
@@ -415,20 +412,3 @@ https://user-images.githubusercontent.com/20516321/151649164-37de19fa-7019-4ce3-
 1. **Writing CV**
 1. **Marketing CV**
 
-## On Boarding Questions
-----
-1. What is the class duration?
-	- 45 days 
-2. How Many days in a week?
-	- Monday to Friday
-3. What time?
-	- Slot 1: 7AM IST to 8 AM IST or 8:30 PM ET to 9:30 PM ET (Running Batch)(iam half Way in this)
-	- Slot 2: 8AM to 9AM IST or 9:30 PM to 10:30 PM ET(New Batch)
-4. Where to get Materials?
-	- from Github cloud https://github.com/rritec/powerbi
-5. Where to get Videos?
-	- From our website https://datahexa.com/course/power-bi/
-6. Support after course completion?
-	- CV writing
-	- Job Marketing
-	- Once we got job then Job Support
